@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+huggingface_hub
+requests
+geopy
+python-dotenv
+ibm-watsonx-ai 
+ibm-watson-machine-learning
+python-multipart
+torch
