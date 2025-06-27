@@ -9,3 +9,4 @@ ibm-watsonx-ai
 ibm-watson-machine-learning
 python-multipart
 torch
+pandas==2.1.3
